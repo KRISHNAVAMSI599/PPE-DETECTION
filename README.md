@@ -37,3 +37,10 @@ This project implements a real-time Personal Protective Equipment (PPE) detectio
 **Note:** The accuracy of detection may vary based on environmental conditions, lighting, and camera quality.
 
 This project aims to contribute to workplace safety by automating the monitoring of personnel adherence to safety protocols, ultimately fostering a safer work environment.
+
+
+**OUTPUT**
+
+![Screenshot (299)](https://github.com/KRISHNAVAMSI599/PPE-DETECTION/assets/138597505/7e9cd082-a7eb-4e9d-8763-3631085792fb)![Screenshot (298)](https://github.com/KRISHNAVAMSI599/PPE-DETECTION/assets/138597505/d5f6af3b-b4ec-4476-a1d9-49b910e6bfa1)
+![Screenshot (301)](https://github.com/KRISHNAVAMSI599/PPE-DETECTION/assets/138597505/da201d67-1a4c-41d6-a95c-cf2574820b61)
+
